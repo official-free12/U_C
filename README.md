@@ -1,0 +1,6 @@
+# 【USDT支付】upay数字支付字货币承兑系统/支持ERC20 OMNI/代理商/第三方支付接口源码
+
+购买此源码赠送个性签名头像山水画一张，提供你或者朋友家人的名字即可，一个名字赠送两版，多拍多送！<br>♥本店所有商品24小时自动发货♥<br>1、源码为虚拟产品，拍前请慎重，购买源码前有演示站的先测试演示站，没有演示站的详情介绍里有预览图可查阅！演示大图皆是实测截图；<br>2、若有安装服务仅限搭建到服务器，能访问前后台，如果需要功能修改,网站设置修改等，另外协商费用。<br>3、程序仅供娱乐交流测试，请勿用于商业以及违法使用，一切法律责任与本店无关；<br>4、安装服务仅对网站源码安装，不进行设置，网站环境需买家自行配置好；<br>5、安装网站，需要买家提供宝塔权限，不接受QQ等远程操作；<br>6、收费服务：服务器环境配置、系统安装、网站调试、网站设置；<br>↓↓↓↓===================↓↓↓↓==================↓↓↓↓<br>（下面才是正文）<br>【USDT支付】upay数字支付数字承兑系统/支持ERC20OMNI/代理商/第三方支付接口<br>全球区块链加密数字第三方支付系统<br>1、数字支付<br>2、全功能货币承兑系统<br>3、支持ERC20和OMNI<br>4、代理商和第三方支付接口<br>服务器系统：Linux+example.com+宝塔<br>测试环境：example.com+example.com+example.com<br>数据库配置文件：/application/example.com<br>后台地址：/admin/login/index?urlkey=123456<br>前台演示：http://example.com/<br>测试账号：13800138011，密码：123456<br>后台演示：http://example.com/admin/login/index?urlkey=123456<br>管理员：admin，密码：123456<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/PSPvL" style="color: red;">https://mega-file.org/PSPvL</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
